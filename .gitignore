@@ -1,0 +1,13 @@
+# Executável gerado pelo Makefile
+/sync_car
+
+# Arquivos objeto da compilação
+*.o
+
+# Arquivos temporários de editores
+*~
+*.swp
+
+# Arquivos de depuração
+core
+core.*
