@@ -1,4 +1,3 @@
-
 #include "sync_car.h"
 
 void station_init(station *station) {

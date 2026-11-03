@@ -1,4 +1,3 @@
-
 #ifndef SYNC_CAR_H
 #define SYNC_CAR_H
 
